@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Preview](./images/preview.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git repository](https://github.com/Rebeca-RaGe/frontend-mentor-preview-stats-card)
+- Live Site URL: [Live site](https://rebeca-rage.github.io/frontend-mentor-preview-stats-card/)
 
 ## My process
 
